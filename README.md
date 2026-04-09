@@ -11,7 +11,7 @@
 | Category | Restaurants |
 | Full dataset size | 179 records |
 | Free sample size | 17 records (9.5%) |
-| Last export | 2026-04-08T23:40:56.229600+00:00 |
+| Last export | 2026-04-09T10:15:57.681820+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/all-restaurants-in-layton-utah-us-sample-438998/releases/download/sample-latest/beamstation_438998_restaurants-us-ut_SAMPLE_DIST.csv) |
 
 ## What is in this sample
