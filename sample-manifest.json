@@ -1,12 +1,12 @@
 {
-  "export_job_id": "12146aeb-7472-4037-826f-ec89d255b083",
+  "export_job_id": "fef4bcd7-dc9e-4170-8781-5e52b5529d3e",
   "id_short": 438998,
-  "published_at": "2026-04-02T15:45:25Z",
+  "published_at": "2026-04-09T07:05:27Z",
   "repo_name": "all-restaurants-in-layton-utah-us-sample-438998",
   "sample_asset_name": "beamstation_438998_restaurants-us-ut_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/438998/beamstation_438998_restaurants-us-ut_SAMPLE_DIST.csv",
-  "sample_records": 8,
-  "sample_sha256": "7ceff458100084e96a8f9804fbc621745530ea41bb4a860a44dbdc885b065c15",
-  "sample_size_bytes": 47802,
-  "total_records": 85
+  "sample_records": 17,
+  "sample_sha256": "b479d79763a17f35c8d42eb2e5e393996459eb274b2c0c2113cce5e99bd41609",
+  "sample_size_bytes": 82201,
+  "total_records": 179
 }
