@@ -1,6 +1,6 @@
 # All Restaurants in Layton, Utah, US
 
-> Free BeamStation sample export with 16 rows and masked direct-contact fields.
+> Free BeamStation sample export with 13 rows and masked direct-contact fields.
 
 ## Snapshot
 
@@ -9,9 +9,9 @@
 | Dataset ID | `438998` |
 | Location | Layton |
 | Category | Restaurants |
-| Full dataset size | 167 records |
-| Free sample size | 16 records (9.58%) |
-| Last export | 2026-04-16T10:09:55.823426+00:00 |
+| Full dataset size | 134 records |
+| Free sample size | 13 records (9.7%) |
+| Last export | 2026-04-23T10:03:43.872437+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/all-restaurants-in-layton-utah-us-sample-438998/releases/download/sample-latest/beamstation_438998_restaurants-us-ut_SAMPLE_DIST.csv) |
 
 ## What is in this sample
